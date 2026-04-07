@@ -3,7 +3,7 @@
 "효율적인 코드로 문제를 해결하는 SW 엔지니어"
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dauto%26height%3D200%26section%3Dheader%26text%3DSW%2520ENGINEER%2520PORTFOLIO%26fontSize%3D70%26animation%3DfadeIn" />
+<img src="https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dauto%26height%3D200%26section%3Dheader%26text%3DSW%2520ENGINEER%2520PORTFOLIO%26fontSize%3D70%26animation%3DfadeIn" />
 </div>
 
 <br />
