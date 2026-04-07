@@ -1,5 +1,4 @@
-# Jiho
-🚀 안녕하세요, [이름]입니다! ​"효율적인 코드로 문제를 해결하는 SW 엔지니어" 
+🚀 안녕하세요, 지호(Jiho)입니다! ​"효율적인 코드로 문제를 해결하는 SW 엔지니어" 
 
 ​<div align="center">
 
@@ -7,7 +6,13 @@
 
 </div>
 
-​👤 About Me ​🔭 현재: [현재 소속 또는 학습 중인 분야]에 집중하고 있습니다. ​💡 철학: 기술은 수단이며, 비즈니스 가치를 창출하는 코드를 지향합니다. ​🎓 학력: [학교/전공/교육과정명] 수료/졸업 ​📫 연락처: [이메일 주소] ​🛠 Tech Stack 
+​<br />
+
+​👤 About Me ​🔭 현재: [현재 소속 또는 학습 중인 분야]에 집중하고 있습니다. ​💡 철학: 기술은 수단이며, 비즈니스 가치를 창출하는 코드를 지향합니다. ​🎓 학력: [학교/전공/교육과정명] 수료/졸업 ​📫 연락처: [이메일 주소] 
+
+​<br />
+
+​🛠 Tech Stack 
 
 ​다양한 도구를 활용해 최적의 솔루션을 구축합니다.
 
@@ -23,6 +28,8 @@
 
 ​<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite">
 
+​<br />
+
 ​📈 GitHub Stats 
 
 ​활동량과 주로 사용하는 언어를 시각화하여 보여줍니다.
@@ -30,6 +37,8 @@
 ​<p align="center">
 
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dwlgh4563-gif%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue" />
+
+<br />
 
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dwlgh4563-gif%26layout%3Dcompact%26theme%3Dtokyonight" />
 
@@ -41,27 +50,19 @@
 
 </p>
 
+​<br />
+
 ​🚀 Key Projects 
 
 ​가장 자신 있는 프로젝트들을 소개합니다.
 
-​1. [프로젝트 이름: 예 - Jiho 커뮤니티] 
+​1. Jiho ​설명: SW 엔지니어 포트폴리오 관리를 위한 개인 프로젝트입니다. ​주요 기능: 기술 스택 시각화, 프로젝트 성과 관리 ​기술 스택: Markdown, GitHub Actions 
 
-​프로젝트 설명: [무엇을 해결하기 위해 만든 프로젝트인지 한 줄 요약]
+​<br />
 
-
-​주요 기능: 실시간 채팅, 회원가입/로그인, 데이터 대시보드 ​기술 스택: React, Node.js, Socket.io, MongoDB ​성과: [예: 응답 시간 30% 개선, 사용자 100명 달성 등] ​Link: 🔗 Repository 방문하기 ​2. [두 번째 프로젝트 이름] 
-
-​프로젝트 설명: [프로젝트 한 줄 요약]
-
-
-​기술 스택: Python, Django, AWS ​Link: 🔗 Repository 방문하기 ​🤝 Connect & Socials 
+​🤝 Connect & Socials 
 
 ​<p align="left">
-
-<a href="https://www.google.com/search?q=https://linkedin.com/in/[본인아이디]"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dflat%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-
-<a href="https://[본인블로그주소]"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Blog-03C75A%3Fstyle%3Dflat%26logo%3Dnaver%26logoColor%3Dwhite" /></a>
 
 <a href="mailto:[이메일주소]"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dflat%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
 
